@@ -4,7 +4,7 @@ import javax.swing.*;
 import java.awt.*;
 
 public class AccountInformation extends JFrame {
-    Dimension dim = new Dimension(400, 450);
+    Dimension dim = new Dimension(300, 220);
 
     AccountInformation(String title, JPanel panel){
         super(title);
