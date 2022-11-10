@@ -10,7 +10,7 @@ public class AccountInformation extends JFrame {
         super(title);
         setSize(dim);
 
-
+        setDefaultCloseOperation(EXIT_ON_CLOSE);
         setVisible(true);
     }
 }
